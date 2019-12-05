@@ -6,8 +6,9 @@
   },
   "rich-text": {
     "props": {
-      "text": "*OLÁ MUNDO MAGNIFICO*",
-      "textPosition": "CENTER"
+      "text": "**Hello, World**",
+      "textPosition": "RIGHT",
+      "font-weight":"BOLD"
     }
   }
 }
